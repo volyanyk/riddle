@@ -1,0 +1,6 @@
+context:
+  initializer:
+    classes: dev.volyanyk.riddle.config.BeansConfig
+spring:
+  cache:
+    cache-names: messages
